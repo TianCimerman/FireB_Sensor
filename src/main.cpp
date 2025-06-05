@@ -11,8 +11,8 @@ int wifiCount = 0;
 
 int ledPin = D9;   
 // WiFi credentials
-const char* ssid = "CimermanWiFi";
-const char* password = "dobovica2a";
+const char* ssid = **********";
+const char* password = "*********";
 
 const char* udpAddress = "192.168.1.160";  // Replace with your Telegraf server's IP
 const int udpPort = 8094;                  // Port Telegraf is listening on
